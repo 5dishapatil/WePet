@@ -1,10 +1,10 @@
-# 🐾 PawTemp MVP
+# 🐾 WePet MVP
 
 ### *Animal Climate Risk Intelligence for Pets, Communities, and NGOs*
 
-PawTemp MVP is a **Python-only Streamlit web application** that helps users understand **hidden climate risks for animals** using **live weather data**, **breed-specific risk logic**, and **role-based actionable recommendations**.
+WePet MVP is a **Python-only Streamlit web application** that helps users understand **hidden climate risks for animals** using **live weather data**, **breed-specific risk logic**, and **role-based actionable recommendations**.
 
-Unlike generic weather apps, PawTemp focuses on the fact that:
+Unlike generic weather apps, WePet focuses on the fact that:
 
 > **What feels manageable to humans may still be dangerous for animals.**
 
@@ -37,7 +37,7 @@ This creates a major gap:
 > There is no simple, user-friendly system that says:
 > **“Given this animal type + this breed + this location + today’s weather, how risky is it?”**
 
-PawTemp addresses this gap by converting live weather into:
+WePet addresses this gap by converting live weather into:
 
 * **breed-specific climate risk**
 * **hidden risk drivers**
@@ -52,7 +52,7 @@ PawTemp addresses this gap by converting live weather into:
 
 This is a **proof-of-concept MVP**, not the full production startup.
 
-The goal is to prove that PawTemp can:
+The goal is to prove that WePet can:
 
 * Fetch **live weather dynamically**
 * Use **breed-specific climate logic**
@@ -64,7 +64,7 @@ The goal is to prove that PawTemp can:
 
 # 👥 Supported User Modes
 
-PawTemp MVP includes **3 user modes**:
+WePet MVP includes **3 user modes**:
 
 ## 1. 🐶 Pet Owner
 
@@ -160,14 +160,14 @@ This MVP intentionally supports **only 10 curated breeds** to prioritise **quali
 * Sphynx
 
 > ⚠️ **Important:**
-> PawTemp MVP does **not** claim universal breed coverage.
+> WePet MVP does **not** claim universal breed coverage.
 > It supports only the above breeds for this proof-of-concept.
 
 ---
 
 # 🧠 Core Product Differentiator
 
-PawTemp is **not** just a weather app.
+WePet is **not** just a weather app.
 
 It does **not** simply say:
 
@@ -184,13 +184,13 @@ Instead, it identifies:
 * **hot-surface / pavement danger**
 * **non-obvious safe windows for activity**
 
-### Example of PawTemp Intelligence
+### Example of WePet Intelligence
 
 A human may think:
 
 > “It’s only 31°C, seems manageable.”
 
-But PawTemp may detect:
+But WePet may detect:
 
 * humidity is very high
 * apparent temperature is much higher
@@ -203,7 +203,7 @@ This is the core value proposition.
 
 # ⚙️ Tech Stack
 
-PawTemp MVP is built entirely in **Python**.
+WePet MVP is built entirely in **Python**.
 
 ## Frontend
 
@@ -318,13 +318,13 @@ These are combined into an **overall risk score (0–100)**.
 
 ## 1. Best Safe Window Today
 
-Using hourly forecast data, PawTemp identifies:
+Using hourly forecast data, WePet identifies:
 
 * the best 1–2 safer time windows for short activity
 
 ## 2. Maximum Outdoor Exposure
 
-Instead of generic advice, PawTemp estimates:
+Instead of generic advice, WePet estimates:
 
 * “Indoor-only today”
 * “Very brief shaded exposure only”
@@ -346,7 +346,7 @@ The app explains **why** the risk is elevated, e.g.:
 # 📁 Recommended Project Structure
 
 ```bash
-pawtemp_mvp/
+WePet_mvp/
 ├── app.py
 ├── pages/
 │   ├── pet_owner.py
@@ -387,7 +387,7 @@ pawtemp_mvp/
 
 ```bash
 git clone <your-repo-url>
-cd pawtemp_mvp
+cd WePet_mvp
 ```
 
 ## 2. Create and activate virtual environment
@@ -438,7 +438,7 @@ opencv-python
 
 # 🛡️ Safety Notes
 
-PawTemp MVP is a **decision-support and awareness tool**, not a veterinary diagnosis tool.
+WePet MVP is a **decision-support and awareness tool**, not a veterinary diagnosis tool.
 
 ## The app does NOT:
 
@@ -494,7 +494,7 @@ Planned future upgrades may include:
 
 # 💼 Real-World Product Vision
 
-PawTemp has the potential to become a real climate-tech + animal welfare product by serving:
+WePet has the potential to become a real climate-tech + animal welfare product by serving:
 
 * **Pet Owners** → premium climate safety intelligence
 * **Communities** → micro-actions for stray / bird support
@@ -512,7 +512,7 @@ This creates a strong future path for:
 
 # 🏆 Why This Project Is Strong
 
-PawTemp stands out because it combines:
+WePet stands out because it combines:
 
 * **social impact**
 * **climate relevance**
@@ -529,7 +529,7 @@ It is not just a college project — it is a **credible product prototype**.
 
 # 👩‍💻 Author / Team
 
-**Project Name:** PawTemp MVP
+**Project Name:** WePet MVP
 **Category:** Climate-Tech + Animal Welfare + Intelligent Decision Support
 **Built With:** Python + Streamlit + Open-Meteo + Rule-Based Risk Intelligence
 
@@ -537,7 +537,7 @@ It is not just a college project — it is a **credible product prototype**.
 
 # 📌 Final Note
 
-PawTemp MVP is designed to answer one important question:
+WePet MVP is designed to answer one important question:
 
 > **“What if today’s weather is more dangerous for an animal than it appears to a human?”**
 
