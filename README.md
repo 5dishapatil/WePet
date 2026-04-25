@@ -373,8 +373,6 @@ WePet_mvp/
 │   ├── citizen_tasks.json
 │   └── distress_reports.json
 │
-├── uploads/
-├── assets/
 ├── requirements.txt
 └── README.md
 ```
@@ -431,9 +429,6 @@ pillow
 plotly
 opencv-python
 ```
-
-> If image features are not used yet, `opencv-python` can be optional.
-
 ---
 
 # 🛡️ Safety Notes
@@ -524,14 +519,6 @@ WePet stands out because it combines:
 * **expandability into a startup**
 
 It is not just a college project — it is a **credible product prototype**.
-
----
-
-# 👩‍💻 Author / Team
-
-**Project Name:** WePet MVP
-**Category:** Climate-Tech + Animal Welfare + Intelligent Decision Support
-**Built With:** Python + Streamlit + Open-Meteo + Rule-Based Risk Intelligence
 
 ---
 
