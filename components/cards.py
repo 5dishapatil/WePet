@@ -1,5 +1,5 @@
 """
-cards.py — Higher-level card compositions for PawTemp MVP.
+cards.py — Higher-level card compositions for WePet MVP.
 """
 import streamlit as st
 from components.ui import (

@@ -1,5 +1,5 @@
 """
-styles.py — Global CSS for PawTemp MVP.
+styles.py — Global CSS for WePet MVP.
 Aesthetic: Dark luxury / refined product feel.
 """
 

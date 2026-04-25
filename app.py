@@ -1,12 +1,12 @@
 """
-app.py — PawTemp MVP main entry point.
+app.py — WePet MVP main entry point.
 Run with: streamlit run app.py
 """
 import streamlit as st
 
 # ── Page Config (must be first Streamlit call) ─────────────────────────────────
 st.set_page_config(
-    page_title="PawTemp — Climate Risk Intelligence",
+    page_title="WePet — Climate Risk Intelligence",
     page_icon="🐾",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -74,7 +74,7 @@ with st.sidebar:
     st.markdown(
         """
         <div style="font-size:0.75rem;color:#334155;line-height:1.6;padding:4px 0;">
-            <strong style="color:#475569;">PawTemp</strong> is a climate risk
+            <strong style="color:#475569;">WePet</strong> is a climate risk
             intelligence tool for pets and street animals.<br><br>
             Weather data: Open-Meteo (free, no key).<br>
             All risk logic is deterministic and breed-specific.<br><br>

@@ -1,7 +1,7 @@
 """
-risk_engine.py — Deterministic, explainable climate risk engine for PawTemp MVP.
+risk_engine.py — Deterministic, explainable climate risk engine for WePet MVP.
 
-Implements the exact logic formulas from the PawTemp Logic Pack.
+Implements the exact logic formulas from the WePet Logic Pack.
 """
 from typing import Optional
 

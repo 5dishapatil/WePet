@@ -1,5 +1,5 @@
 """
-ui.py — Reusable Streamlit UI helpers for PawTemp MVP.
+ui.py — Reusable Streamlit UI helpers for WePet MVP.
 """
 import streamlit as st
 from components.styles import RISK_COLORS, RISK_BG

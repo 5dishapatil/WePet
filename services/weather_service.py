@@ -1,5 +1,5 @@
 """
-weather_service.py — Open-Meteo integration for PawTemp MVP.
+weather_service.py — Open-Meteo integration for WePet MVP.
 Geocoding + current conditions + 12-hour hourly forecast.
 """
 import requests

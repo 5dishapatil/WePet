@@ -1,5 +1,5 @@
 """
-pages/pet_owner.py — Pet Owner mode for PawTemp MVP.
+pages/pet_owner.py — Pet Owner mode for WePet MVP.
 Breed-specific, weather-driven climate risk analysis.
 """
 import streamlit as st

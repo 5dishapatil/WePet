@@ -1,5 +1,5 @@
 """
-pages/community.py — Community User mode for PawTemp MVP.
+pages/community.py — Community User mode for WePet MVP.
 Daily 1-minute climate-help task for street animals.
 """
 import streamlit as st

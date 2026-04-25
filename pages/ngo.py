@@ -1,5 +1,5 @@
 """
-pages/ngo.py — NGO / Shelter mode for PawTemp MVP.
+pages/ngo.py — NGO / Shelter mode for WePet MVP.
 Distress report submission + severity dashboard.
 """
 import streamlit as st

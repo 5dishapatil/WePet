@@ -1,5 +1,5 @@
 """
-storage_service.py — Safe JSON read/write for PawTemp MVP persistence.
+storage_service.py — Safe JSON read/write for WePet MVP persistence.
 """
 import json
 import os

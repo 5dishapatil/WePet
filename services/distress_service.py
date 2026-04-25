@@ -1,5 +1,5 @@
 """
-distress_service.py — NGO distress report management for PawTemp MVP.
+distress_service.py — NGO distress report management for WePet MVP.
 """
 import base64
 from pathlib import Path
